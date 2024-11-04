@@ -53,3 +53,10 @@ body {
     line-height: 1.6;
     color: #666;
 }
+.site-footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
